@@ -8,5 +8,3 @@ def fn_hack_6():
     for char in text:
         result.append(int(char))
     return result
-
-print(fn_hack_6())
